@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ### Just a simple coder💻🚀
-🔭 I’m currently working on React library `classic-react-components`.
+🔭 I’m currently working on React library `classic-react-components` [Npm Link](https://www.npmjs.com/package/classic-react-components).
 
 
 ## 🌐 Socials:
