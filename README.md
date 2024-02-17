@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-### Just a simple coder💻🚀
+### A simple coder💻🚀
+- Hi, I am Ashish a FrontEnd Developer in React. Have very profound knowledge in Javascript & React.
+  
 🔭 Things I am currently working on (PR's are welcome)
 - React library `classic-react-components` [Npm Link](https://www.npmjs.com/package/classic-react-components).
 - `classic-react-hooks`, collection of awesome react hooks. [Live url](https://classic-react-hooks.vercel.app/)
