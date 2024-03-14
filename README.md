@@ -1,7 +1,10 @@
 
 # 💫 About Me:
-### A simple coder💻🚀
-- Hi, I am Ashish a FrontEnd Developer in React. Have very profound knowledge in Javascript & React.
+
+- Hello I am FrontEnd Developer in React + Typescript.
+- 👯 I’m passionate about contributing to OpenSource Projects.
+
+
   
 🔭 Things I am currently working on (PR's are welcome)
 - React library `classic-react-components` [Npm Link](https://www.npmjs.com/package/classic-react-components).
