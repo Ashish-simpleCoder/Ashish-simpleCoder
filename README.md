@@ -1,16 +1,14 @@
 
 # 💫 About Me:
 
-- Hello I am FrontEnd Developer in React + Typescript.
-- 👯 I’m passionate about contributing to OpenSource Projects.
+- Hello I am Ashish, a FrontEnd Engineer.
+- 👯 Passionate and enthusiatic Developer.
 
-
-  
 🔭 Things I am currently working on (PR's are welcome)
-- React library `classic-react-components` [Npm Link](https://www.npmjs.com/package/classic-react-components).
 - `classic-react-hooks`, collection of awesome react hooks. [Live url](https://classic-react-hooks.vercel.app/)
 
 ## 💻 Cool Projects done by me
+- `classic-react-components` react library [Npm Link](https://www.npmjs.com/package/classic-react-components).
 - [mini-jotai](https://github.com/Ashish-simpleCoder/mini-jotai), a mini vesion of official jotai (a state management) library.
 - [react-ts-file-tree](https://github.com/Ashish-simpleCoder/react-ts-file-tree), a mini file-tree built using `ref-based context`(pub-sub modal) and advanced react/js concepts like `React-Portal`, `Event Delegation`. It has crud operations for managing the file tree.
 
@@ -39,6 +37,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashish-simpleCoder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-simpleCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
