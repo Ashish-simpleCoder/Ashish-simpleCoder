@@ -1,13 +1,13 @@
 
 # 💫 About Me:
 
-- Hello I am Ashish, a FrontEnd Engineer.
+- Hello I am Ashish Prajapati, a FrontEnd Engineer.
 - 👯 Passionate and enthusiatic Developer.
 
 🔭 Things I am currently working on (PR's are welcome)
 - `classic-react-hooks`, collection of awesome react hooks. [Live url](https://classic-react-hooks.vercel.app/)
 
-## 💻 Cool Projects done by me
+## 💻 Cool Projects Made By Me
 - `classic-react-components` react library [Npm Link](https://www.npmjs.com/package/classic-react-components).
 - [mini-jotai](https://github.com/Ashish-simpleCoder/mini-jotai), a mini vesion of official jotai (a state management) library.
 - [react-ts-file-tree](https://github.com/Ashish-simpleCoder/react-ts-file-tree), a mini file-tree built using `ref-based context`(pub-sub modal) and advanced react/js concepts like `React-Portal`, `Event Delegation`. It has crud operations for managing the file tree.
