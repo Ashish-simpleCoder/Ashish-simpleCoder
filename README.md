@@ -3,7 +3,7 @@
 - A Frontend developer, who is enthusiastic and always ready to learn and solve complex problems.
 - Open Source enthusiastic.
 
-##  Things I am currently working on (PR's are welcome) 🔭
+##  Things I am currently working on (PR's are welcomed) 🔭
 - [classic-react-hooks](https://github.com/Ashish-simpleCoder/classic-react-hooks): Collection of awesome react hooks, needed to built features for daily life of the developers [Live url](https://classic-react-hooks.vercel.app/)
 
 ## Technical Skills 
